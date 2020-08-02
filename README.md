@@ -1,2 +1,2 @@
 # Curso de HTML5
-20 Projeos, Primeiro Proheto SIte Simples
+20 Projeos, Primeiro Projeto SIte Simples de Uma Universidade
